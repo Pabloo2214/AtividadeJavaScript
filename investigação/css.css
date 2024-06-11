@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #383838;
+    background-image: url(img/investigacao-forense.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.formulario {
+    max-width: 600px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.titulo {
+
+    padding-top: 10px;
+    padding-left: 50px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.comeco{
+
+    background-color: #fff;
+    width: 75%; 
+  
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-radius: 8px;
+   
+    
+    
+
+
+}
+
+
+.botao {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#resultado {
+    margin-top: 20px;
+    text-align: center;
+    size: 10px;
+
+}
+
+.pai {
+
+
+
+display:block;
+margin-left: auto;
+margin-right: auto;
+align-items: center;
+justify-content: center;
+text-align: center;
+
+background-color: #fff;
+width: 75%;
+border-radius: 8px;
+padding-top: 20px;
+
+
+}
+
+
+
+label {
+
+    align-items: center;
+    justify-content: center;
+text-align: center;
+}
+
+.subtitulo {
+
+
+    color: #757272;
+    padding-left: 50px;
+    text-align: left;
+ 
+
+}
+
